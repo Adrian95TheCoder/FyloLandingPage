@@ -1,0 +1,27 @@
+{
+  "name": "fylolandingpage",
+  "version": "1.0.0",
+  "description": "My second project from Frontend Mentor-excercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "node-sass": "node-sass assets/scss/style.scss assets/css/style.css",
+    "sass-watch": "node-sass -w assets/scss/style.scss assets/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adrian95TheCoder/FyloLandingPage.git"
+  },
+  "keywords": [
+    "Fylo"
+  ],
+  "author": "Adrian Marczak with Frontend Mentor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adrian95TheCoder/FyloLandingPage/issues"
+  },
+  "homepage": "https://github.com/Adrian95TheCoder/FyloLandingPage#readme",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
